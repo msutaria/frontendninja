@@ -1,0 +1,1 @@
+function one(){return"one"}function two(){return"two"}var process;process=function(){return"Hello There!!! Same here!!!"};
